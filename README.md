@@ -3,4 +3,4 @@ DECA implementation
 
 Reference
 
-* [DECA: Detailed Expression Capture and Animation](https://github.com/YadiraF/DECA)**
+* **[DECA: Detailed Expression Capture and Animation](https://github.com/YadiraF/DECA)**
