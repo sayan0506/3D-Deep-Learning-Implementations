@@ -10,5 +10,6 @@ Reference
 * **[AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis](https://arxiv.org/pdf/2103.11078v1.pdf)**
 * **[Research Highlight: Face2Face](https://justusthies.github.io/posts/acm-research-highlight/)**
 * **[Justus Thies Research Group Leader at the Max Planck Institute for Intelligent Systems](https://justusthies.github.io/)**
-
+* **[](https://youtu.be/XMVmngZSvm0)**
+* **[Video Background change notebook](https://colab.research.google.com/gist/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f/backmatting.ipynb?authuser=2#scrollTo=cPPmkCI6GxXl)**
 
