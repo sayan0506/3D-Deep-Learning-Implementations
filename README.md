@@ -1,5 +1,4 @@
-# DECA-implementation
-DECA implementation
+# 3D Deep Learning Implementations
 
 Reference
 
@@ -7,5 +6,6 @@ Reference
 * **[VOCA: Voice Operated Character Animation](https://github.com/TimoBolkart/voca)**
 * **[First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)**
 * **[Neural Voice Puppetry: Audio-driven Facial Reenactment](https://justusthies.github.io/posts/neural-voice-puppetry/)**
+* **[3D-Deep-Learning-Zoo](https://github.com/Qingcsai/awesome-3D-Deep-Learning)**
 
 
