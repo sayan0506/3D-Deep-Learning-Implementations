@@ -12,4 +12,5 @@ Reference
 * **[Justus Thies Research Group Leader at the Max Planck Institute for Intelligent Systems](https://justusthies.github.io/)**
 * **[hat are Deep Fakes? How do we detect them? (CVPR'2020 Media Forensics Workshop)](https://youtu.be/XMVmngZSvm0)**
 * **[Video Background change notebook](https://colab.research.google.com/gist/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f/backmatting.ipynb?authuser=2#scrollTo=cPPmkCI6GxXl)**
+* **[Access webcam video and images and process real time in google colab](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing)**
 
