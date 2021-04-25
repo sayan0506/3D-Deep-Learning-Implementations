@@ -13,4 +13,6 @@ Reference
 * **[hat are Deep Fakes? How do we detect them? (CVPR'2020 Media Forensics Workshop)](https://youtu.be/XMVmngZSvm0)**
 * **[Video Background change notebook](https://colab.research.google.com/gist/andreyryabtsev/243aa3eefa6e06891dda7b1583d1d08f/backmatting.ipynb?authuser=2#scrollTo=cPPmkCI6GxXl)**
 * **[Access webcam video and images and process real time in google colab](https://colab.research.google.com/drive/1QnC7lV7oVFk5OZCm75fqbLAfD9qBy9bw?usp=sharing)**
+* **[Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation (CVPR 2021)](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)**
+* **[ReenactGAN: Learning to Reenact Faces via Boundary Transfer](https://github.com/wywu/ReenactGAN)**
 
